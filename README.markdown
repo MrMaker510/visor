@@ -12,6 +12,6 @@ This is my fork of the project, as I wanted to have some additional features and
 Please see the [original website](http://code.google.com/p/blacktree-visor/) for more information, the issue tracker and so on.
 
 
-## Download
+# Download
 
 Usable builds including this fixes are available for download [here](http://pixelshed.net/visor-builds/).
